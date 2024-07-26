@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.bt{
+  background-color: #0c5460;
+  border-style: none;
+  text-decoration: none ;
+  font-size: 130%;
+  padding-right: 10%;
+  color: white;
+  font-variant: small-caps;
+
+}
+.bt:hover{
+  text-decoration: none;
+  color: #171a1d;
+}

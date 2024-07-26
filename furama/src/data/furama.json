@@ -1,0 +1,796 @@
+{
+  "facilities": [
+    {
+      "id": "1",
+      "img": "https://vinpearlresortvietnam.com/wp-content/uploads/vinpearl-resort-nha-trang-bay-4-bedroom-pool-villa-2.jpeg",
+      "name": "Villa Beach Front",
+      "area": "200",
+      "cost": "2000000",
+      "max_people": "3",
+      "rent_type": {
+        "id": "2",
+        "name": "Thang"
+      },
+      "facility_type": {
+        "id": "3",
+        "name": "Room"
+      },
+      "standard_room": "d",
+      "desscription": "a",
+      "pool_area": "",
+      "number_of_floors": "1",
+      "facility_free": "massage"
+    },
+    {
+      "id": "2",
+      "img": "https://vinpearlresortvietnam.com/wp-content/uploads/vinpearl-resort-nha-trang-bay-4-bedroom-pool-villa-2.jpeg",
+      "name": "Room Twin 02A",
+      "area": "200",
+      "cost": "2000000",
+      "max_people": "3",
+      "rent_type": {
+        "id": "1",
+        "name": "Nam"
+      },
+      "facility_type": {
+        "id": "2",
+        "name": "Room"
+      },
+      "facility_free": "Massage"
+    },
+    {
+      "id": "3",
+      "img": "https://askaracangguvillas.com/wp-content/uploads/2015/07/canggu-askara-villas-2-1024x693.jpg",
+      "name": "House Princess 02",
+      "area": "200",
+      "cost": "2000000",
+      "max_people": "3",
+      "rent_type": {
+        "id": "2",
+        "name": "Thang"
+      },
+      "facility_type": {
+        "id": "1",
+        "name": "Villa"
+      },
+      "standard_room": "Vip",
+      "desscription": "Oke",
+      "number_of_floors": "3"
+    },
+    {
+      "id": "4",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmaq-3qZX1XD2-2rhAWdRwCBjIsgrb6ogZL8xM2csDA&s",
+      "name": "Villa Beach Front",
+      "area": "200",
+      "cost": "2000000",
+      "max_people": "3",
+      "rent_type": {
+        "id": "1",
+        "name": "Nam"
+      },
+      "facility_type": {
+        "id": "1",
+        "name": "Villa"
+      },
+      "standard_room": "Vip",
+      "desscription": "Oke",
+      "pool_area": "200",
+      "number_of_floors": "3"
+    },
+    {
+      "id": "5",
+      "img": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/169/2023/09/07095724/VILLA-3.jpg",
+      "name": "House Princess 02",
+      "area": "200",
+      "cost": "2000000",
+      "max_people": "3",
+      "rent_type": {
+        "id": "2",
+        "name": "Thang"
+      },
+      "facility_type": {
+        "id": "1",
+        "name": "Villa"
+      },
+      "standard_room": "Vip",
+      "desscription": "Oke",
+      "number_of_floors": "3"
+    },
+    {
+      "id": "6",
+      "img": "https://askaracangguvillas.com/wp-content/uploads/2015/07/canggu-askara-villas-2-1024x693.jpg",
+      "name": "House Princess 02",
+      "area": "200",
+      "cost": "2000000",
+      "max_people": "3",
+      "rent_type": {
+        "id": "2",
+        "name": "Thang"
+      },
+      "facility_type": {
+        "id": "1",
+        "name": "Villa"
+      },
+      "standard_room": "Vip",
+      "desscription": "Oke",
+      "number_of_floors": "3"
+    },
+    {
+      "id": "7",
+      "img": "https://askaracangguvillas.com/wp-content/uploads/2015/07/canggu-askara-villas-2-1024x693.jpg",
+      "name": "House Princess 02",
+      "area": "200",
+      "cost": "2000000",
+      "max_people": "3",
+      "rent_type": {
+        "id": "2",
+        "name": "Thang"
+      },
+      "facility_type": {
+        "id": "2",
+        "name": "House"
+      },
+      "standard_room": "Vip",
+      "desscription": "Oke",
+      "number_of_floors": "3"
+    },
+    {
+      "id": "8",
+      "img": "https://askaracangguvillas.com/wp-content/uploads/2015/07/canggu-askara-villas-2-1024x693.jpg",
+      "name": "House Princess 02",
+      "area": "200",
+      "cost": "2000000",
+      "max_people": "3",
+      "rent_type": {
+        "id": "2",
+        "name": "Thang"
+      },
+      "facility_type": {
+        "id": "3",
+        "name": "Room"
+      },
+      "standard_room": "Vip",
+      "desscription": "Oke",
+      "number_of_floors": "3"
+    },
+    {
+      "id": "c9fa",
+      "facility_type": "{\"id\":\"2\",\"name\":\"House\"}",
+      "standard_room": "",
+      "pool_area": "",
+      "desscription": "",
+      "number_of_floors": "",
+      "img": "https://resortdanang.info/wp-content/uploads/2018/11/ho-boi-hyatt-resort-da-nang.jpg",
+      "name": "House Princess 03",
+      "cost": "1000000",
+      "area": "200000",
+      "max_people": "5",
+      "rent_type": "{\"id\":\"4\",\"name\":\"Gio\"}",
+      "facility_free": "Massgae"
+    },
+    {
+      "id": "78a3",
+      "img": "https://dmaevvtdousx6.cloudfront.net/uploads/2018/08/gallery49.jpg",
+      "facility_type": "{\"id\":\"3\",\"name\":\"Room\"}",
+      "standard_room": "a",
+      "pool_area": "",
+      "desscription": "Vip",
+      "number_of_floors": "3",
+      "name": "Room Twin 04",
+      "cost": "3000000",
+      "area": "300",
+      "max_people": "6",
+      "rent_type": "{\"id\":\"3\",\"name\":\"Ngay\"}"
+    }
+  ],
+  "rent_type": [
+    {
+      "id": "1",
+      "name": "Nam"
+    },
+    {
+      "id": "2",
+      "name": "Thang"
+    },
+    {
+      "id": "3",
+      "name": "Ngay"
+    },
+    {
+      "id": "4",
+      "name": "Gio"
+    }
+  ],
+  "facility_type": [
+    {
+      "id": "1",
+      "name": "Villa"
+    },
+    {
+      "id": "2",
+      "name": "House"
+    },
+    {
+      "id": "3",
+      "name": "Room"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Nguyen Van Thanh",
+      "day_of_birth": "12-02-1997",
+      "gender": "true",
+      "id_card": "1343256343",
+      "phone": "0987227345",
+      "email": "hoain5990@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "1",
+        "name": "Diamond"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Nguyen Tan Phat",
+      "day_of_birth": "12-02-1999",
+      "gender": "true",
+      "id_card": "1343256343",
+      "phone": "0987227345",
+      "email": "phat5990@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "2",
+        "name": "Platinium"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Le Hang",
+      "day_of_birth": "12-02-1999",
+      "gender": "false",
+      "id_card": "1343256343",
+      "phone": "0987227399",
+      "email": "hanga@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "3",
+        "name": "Gold"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Nguyen Thi Chau",
+      "day_of_birth": "15-02-1989",
+      "gender": "false",
+      "id_card": "1343256343",
+      "phone": "0987227399",
+      "email": "chaua@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "4",
+        "name": "Silver"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Nguyen Tuan",
+      "day_of_birth": "15-02-1989",
+      "gender": "true",
+      "id_card": "1343256343",
+      "phone": "0987227399",
+      "email": "tuan@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "5",
+        "name": "Member"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Nguyen Phat La",
+      "day_of_birth": "15-08-1989",
+      "gender": "true",
+      "id_card": "1343256343",
+      "phone": "0987227399",
+      "email": "pl@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "1",
+        "name": "Diamond"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Nguyen Quoc Anh",
+      "day_of_birth": "15-08-1989",
+      "gender": "true",
+      "id_card": "1343256343",
+      "phone": "0987227399",
+      "email": "quocanh@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "2",
+        "name": "Platinium"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Nguyen Quoc Anh",
+      "day_of_birth": "15-08-1989",
+      "gender": "true",
+      "id_card": "1343256343",
+      "phone": "0987227399",
+      "email": "quocanh@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "2",
+        "name": "Platinium"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Nguyen Anh",
+      "day_of_birth": "15-08-1989",
+      "gender": "true",
+      "id_card": "1343256343",
+      "phone": "0987227399",
+      "email": "anh@gmail.com",
+      "address": "Da Nang",
+      "customer_type": {
+        "id": "5",
+        "name": "Member"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Nguyen Anh Quang",
+      "day_of_birth": "15-08-1989",
+      "gender": "true",
+      "id_card": "1343256343",
+      "phone": "0987227399",
+      "email": "anh@gmail.com",
+      "address": "Thua Thien Hue",
+      "customer_type": {
+        "id": "5",
+        "name": "Member"
+      }
+    },
+    {
+      "id": "c683",
+      "name": "Nguyen Thanh Hoai",
+      "id_card": "0928378274",
+      "phone": "0911111111",
+      "email": "hoain5990@gmai.com",
+      "address": "Quảng Nam",
+      "customer_type": "{\"id\":\"3\",\"name\":\"Gold\"}",
+      "gender": "true",
+      "day_of_birth": "2024-04-17"
+    },
+    {
+      "id": "8958",
+      "name": "Nguyen Thanh Hoaiaaaa",
+      "id_card": "0928378274",
+      "phone": "0911111111",
+      "email": "hoain5990@gmai.com",
+      "address": "Quảng Nam",
+      "day_of_birth": "2024-04-02",
+      "gender": "false",
+      "customer_type": "{\"id\":\"3\",\"name\":\"Gold\"}"
+    },
+    {
+      "id": "9d46",
+      "name": "Nguyen Thanh Hoaiaaa",
+      "id_card": "0928378274",
+      "phone": "0911111111",
+      "email": "hoain5990@gmai.com",
+      "address": "Quảng Nam",
+      "customer_type": {
+        "id": "5",
+        "name": "Member"
+      },
+      "gender": "true",
+      "day_of_birth": "2024-04-18"
+    }
+  ],
+  "customer_type": [
+    {
+      "id": "1",
+      "name": "Diamond"
+    },
+    {
+      "id": "2",
+      "name": "Platinium"
+    },
+    {
+      "id": "3",
+      "name": "Gold"
+    },
+    {
+      "id": "4",
+      "name": "Silver"
+    },
+    {
+      "id": "5",
+      "name": "Member"
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "Phung Chi Kiem",
+      "day_of_birth": "1998-09-09",
+      "id_card": "12344355",
+      "phone": "091287744",
+      "email": "asdff@gmail.com",
+      "salary": "2000000",
+      "education_degree": {
+        "id": "3",
+        "name": "Dai Hoc"
+      },
+      "division": {
+        "id": "1",
+        "name": "Sale–Marketing"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Dang Quang Hai",
+      "day_of_birth": "1997-02-12",
+      "id_card": "123424435",
+      "phone": "098663234",
+      "email": "quocasdd@gmail.com",
+      "salary": "2000000",
+      "education_degree": {
+        "id": "1",
+        "name": "Trung Cap"
+      },
+      "division": {
+        "id": "2",
+        "name": "Hanh Chinh"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Le Thi Tuyet Anh",
+      "day_of_birth": "1997-02-12",
+      "id_card": "2313234324",
+      "phone": "091287343",
+      "email": "asrf23@gmail.com",
+      "salary": "2000000",
+      "education_degree": {
+        "id": "3",
+        "name": "Cao Dang"
+      },
+      "division": {
+        "id": "3",
+        "name": "Phuc Vu"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Chau Thi Ha",
+      "day_of_birth": "1997-02-12",
+      "id_card": "123434",
+      "phone": "0991723434",
+      "email": "asfdfdg@gmail.com",
+      "salary": "2000000",
+      "education_degree": {
+        "id": "4",
+        "name": "Dai Hoc"
+      },
+      "division": {
+        "id": "4",
+        "name": "Quan Ly"
+      }
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "deposit": "50000",
+      "start_date": "2023-19-08",
+      "end_date": "2023-19-10",
+      "total_money": "58980000",
+      "customer": {
+        "id": "1",
+        "name": "Nguyen Van Thanh",
+        "day_of_birth": "12-02-1997",
+        "gender": "true",
+        "id_card": "1343256343",
+        "phone": "0987227345",
+        "email": "hoain5990@gmail.com",
+        "address": "Da Nang",
+        "customer_type": {
+          "id": "1",
+          "name": "Diamond"
+        }
+      },
+      "employee": {
+        "id": "1",
+        "name": "Phung Chi Kiem",
+        "day_of_birth": "1998-09-09",
+        "id_card": "12344355",
+        "phone": "091287744",
+        "email": "asdff@gmail.com",
+        "salary": "2000000",
+        "education_degree": {
+          "id": "3",
+          "name": "Dai Hoc"
+        },
+        "division": {
+          "id": "1",
+          "name": "Sale–Marketing"
+        }
+      },
+      "facility": {
+        "id": "1",
+        "img": "https://vinpearlresortvietnam.com/wp-content/uploads/vinpearl-resort-nha-trang-bay-4-bedroom-pool-villa-2.jpeg",
+        "name": "Villa Beach Front",
+        "area": "200",
+        "cost": "2000000",
+        "max_people": "3",
+        "rent_type": {
+          "id": "2",
+          "name": "Thang"
+        },
+        "facility_type": {
+          "id": "3",
+          "name": "Room"
+        },
+        "standard_room": "d",
+        "desscription": "a",
+        "pool_area": "",
+        "number_of_floors": "1",
+        "facility_free": "massage"
+      }
+    },
+    {
+      "id": "2",
+      "deposit": "50000",
+      "start_date": "2023-19-08",
+      "end_date": "2023-19-10",
+      "total_money": "58980000",
+      "customer": {
+        "id": "2",
+        "name": "Nguyen Tan Phat",
+        "day_of_birth": "12-02-1999",
+        "gender": "true",
+        "id_card": "1343256343",
+        "phone": "0987227345",
+        "email": "phat5990@gmail.com",
+        "address": "Da Nang",
+        "customer_type": {
+          "id": "2",
+          "name": "Platinium"
+        }
+      },
+      "employee": {
+        "id": "2",
+        "name": "Dang Quang Hai",
+        "day_of_birth": "1997-02-12",
+        "id_card": "123424435",
+        "phone": "098663234",
+        "email": "quocasdd@gmail.com",
+        "salary": "2000000",
+        "education_degree": {
+          "id": "1",
+          "name": "Trung Cap"
+        },
+        "division": {
+          "id": "2",
+          "name": "Hanh Chinh"
+        }
+      },
+      "facility": {
+        "id": "2",
+        "img": "https://vinpearlresortvietnam.com/wp-content/uploads/vinpearl-resort-nha-trang-bay-4-bedroom-pool-villa-2.jpeg",
+        "name": "Room Twin 02A",
+        "area": "200",
+        "cost": "2000000",
+        "max_people": "3",
+        "rent_type": {
+          "id": "1",
+          "name": "Nam"
+        },
+        "facility_type": {
+          "id": "2",
+          "name": "Room"
+        },
+        "facility_free": "Massage"
+      }
+    },
+    {
+      "id": "3",
+      "deposit": "50000",
+      "start_date": "2023-19-08",
+      "end_date": "2023-19-10",
+      "total_money": "58980000",
+      "customer": {
+        "id": "3",
+        "name": "Le Hang",
+        "day_of_birth": "12-02-1999",
+        "gender": "false",
+        "id_card": "1343256343",
+        "phone": "0987227399",
+        "email": "hanga@gmail.com",
+        "address": "Da Nang",
+        "customer_type": {
+          "id": "3",
+          "name": "Gold"
+        }
+      },
+      "employee": {
+        "id": "3",
+        "name": "Le Thi Tuyet Anh",
+        "day_of_birth": "1997-02-12",
+        "id_card": "2313234324",
+        "phone": "091287343",
+        "email": "asrf23@gmail.com",
+        "salary": "2000000",
+        "education_degree": {
+          "id": "3",
+          "name": "Cao Dang"
+        },
+        "division": {
+          "id": "3",
+          "name": "Phuc Vu"
+        }
+      },
+      "facility": {
+        "id": "3",
+        "img": "https://askaracangguvillas.com/wp-content/uploads/2015/07/canggu-askara-villas-2-1024x693.jpg",
+        "name": "House Princess 02",
+        "area": "200",
+        "cost": "2000000",
+        "max_people": "3",
+        "rent_type": {
+          "id": "2",
+          "name": "Thang"
+        },
+        "facility_type": {
+          "id": "1",
+          "name": "Villa"
+        },
+        "standard_room": "Vip",
+        "desscription": "Oke",
+        "number_of_floors": "3"
+      }
+    },
+    {
+      "id": "4",
+      "deposit": "50000",
+      "start_date": "2023-19-08",
+      "end_date": "2023-19-10",
+      "total_money": "58980000",
+      "customer": {
+        "id": "4",
+        "name": "Nguyen Thi Chau",
+        "day_of_birth": "15-02-1989",
+        "gender": "false",
+        "id_card": "1343256343",
+        "phone": "0987227399",
+        "email": "chaua@gmail.com",
+        "address": "Da Nang",
+        "customer_type": {
+          "id": "4",
+          "name": "Silver"
+        }
+      },
+      "employee": {
+        "id": "4",
+        "name": "Chau Thi Ha",
+        "day_of_birth": "1997-02-12",
+        "id_card": "123434",
+        "phone": "0991723434",
+        "email": "asfdfdg@gmail.com",
+        "salary": "2000000",
+        "education_degree": {
+          "id": "4",
+          "name": "Dai Hoc"
+        },
+        "division": {
+          "id": "4",
+          "name": "Quan Ly"
+        }
+      },
+      "facility": {
+        "id": "4",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmaq-3qZX1XD2-2rhAWdRwCBjIsgrb6ogZL8xM2csDA&s",
+        "name": "Villa Beach Front",
+        "area": "200",
+        "cost": "2000000",
+        "max_people": "3",
+        "rent_type": {
+          "id": "1",
+          "name": "Nam"
+        },
+        "facility_type": {
+          "id": "1",
+          "name": "Villa"
+        },
+        "standard_room": "Vip",
+        "desscription": "Oke",
+        "pool_area": "200",
+        "number_of_floors": "3"
+      }
+    },
+    {
+      "id": "e82f",
+      "start_date": "2024-04-17",
+      "end_date": "2024-04-25",
+      "deposit": "100000",
+      "total_money": "1000000",
+      "employee": "{\"id\":\"2\",\"name\":\"Dang Quang Hai\",\"day_of_birth\":\"1997-02-12\",\"id_card\":\"123424435\",\"phone\":\"098663234\",\"email\":\"quocasdd@gmail.com\",\"salary\":\"2000000\",\"education_degree\":{\"id\":\"1\",\"name\":\"Trung Cap\"},\"division\":{\"id\":\"2\",\"name\":\"Hanh Chinh\"}}",
+      "customer": "{\"id\":\"10\",\"name\":\"Nguyen Anh Quang\",\"day_of_birth\":\"15-08-1989\",\"gender\":\"true\",\"id_card\":\"1343256343\",\"phone\":\"0987227399\",\"email\":\"anh@gmail.com\",\"address\":\"Thua Thien Hue\",\"customer_type\":{\"id\":\"5\",\"name\":\"Member\"}}",
+      "facility": "{\"id\":\"c9fa\",\"facility_type\":\"{\\\"id\\\":\\\"2\\\",\\\"name\\\":\\\"House\\\"}\",\"standard_room\":\"\",\"pool_area\":\"\",\"desscription\":\"\",\"number_of_floors\":\"\",\"img\":\"https://resortdanang.info/wp-content/uploads/2018/11/ho-boi-hyatt-resort-da-nang.jpg\",\"name\":\"House Princess 03\",\"cost\":\"1000000\",\"area\":\"200000\",\"max_people\":\"5\",\"rent_type\":\"{\\\"id\\\":\\\"4\\\",\\\"name\\\":\\\"Gio\\\"}\",\"facility_free\":\"Massgae\"}"
+    },
+    {
+      "id": "2fee",
+      "start_date": "2024-04-03",
+      "end_date": "2024-04-05",
+      "deposit": "100000",
+      "total_money": "1000000",
+      "employee": "{\"id\":\"4\",\"name\":\"Chau Thi Ha\",\"day_of_birth\":\"1997-02-12\",\"id_card\":\"123434\",\"phone\":\"0991723434\",\"email\":\"asfdfdg@gmail.com\",\"salary\":\"2000000\",\"education_degree\":{\"id\":\"4\",\"name\":\"Dai Hoc\"},\"division\":{\"id\":\"4\",\"name\":\"Quan Ly\"}}",
+      "customer": "{\"id\":\"4\",\"name\":\"Nguyen Thi Chau\",\"day_of_birth\":\"15-02-1989\",\"gender\":\"false\",\"id_card\":\"1343256343\",\"phone\":\"0987227399\",\"email\":\"chaua@gmail.com\",\"address\":\"Da Nang\",\"customer_type\":{\"id\":\"4\",\"name\":\"Silver\"}}",
+      "facility": "{\"id\":\"5\",\"img\":\"https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/169/2023/09/07095724/VILLA-3.jpg\",\"name\":\"House Princess 02\",\"area\":\"200\",\"cost\":\"2000000\",\"max_people\":\"3\",\"rent_type\":{\"id\":\"2\",\"name\":\"Thang\"},\"facility_type\":{\"id\":\"1\",\"name\":\"Villa\"},\"standard_room\":\"Vip\",\"desscription\":\"Oke\",\"number_of_floors\":\"3\"}"
+    },
+    {
+      "id": "318d",
+      "start_date": "2024-04-24",
+      "end_date": "2024-04-11",
+      "deposit": "1000001",
+      "total_money": "1000001",
+      "employee": {
+        "id": "2",
+        "name": "Dang Quang Hai",
+        "day_of_birth": "1997-02-12",
+        "id_card": "123424435",
+        "phone": "098663234",
+        "email": "quocasdd@gmail.com",
+        "salary": "2000000",
+        "education_degree": {
+          "id": "1",
+          "name": "Trung Cap"
+        },
+        "division": {
+          "id": "2",
+          "name": "Hanh Chinh"
+        }
+      },
+      "customer": {
+        "id": "8",
+        "name": "Nguyen Quoc Anh",
+        "day_of_birth": "15-08-1989",
+        "gender": "true",
+        "id_card": "1343256343",
+        "phone": "0987227399",
+        "email": "quocanh@gmail.com",
+        "address": "Da Nang",
+        "customer_type": {
+          "id": "2",
+          "name": "Platinium"
+        }
+      },
+      "facility": {
+        "id": "5",
+        "img": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/169/2023/09/07095724/VILLA-3.jpg",
+        "name": "House Princess 02",
+        "area": "200",
+        "cost": "2000000",
+        "max_people": "3",
+        "rent_type": {
+          "id": "2",
+          "name": "Thang"
+        },
+        "facility_type": {
+          "id": "1",
+          "name": "Villa"
+        },
+        "standard_room": "Vip",
+        "desscription": "Oke",
+        "number_of_floors": "3"
+      }
+    }
+  ]
+}
